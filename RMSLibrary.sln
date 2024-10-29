@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMSLibrary", "RMSLibrary\RMSLibrary.csproj", "{AC4053C4-15E3-4BEC-A102-C7311384DFBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMS_UI", "RMS_UI\RMS_UI.csproj", "{2163B34C-7970-4AA4-9AC2-F2C73D14F2D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4053C4-15E3-4BEC-A102-C7311384DFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4053C4-15E3-4BEC-A102-C7311384DFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4053C4-15E3-4BEC-A102-C7311384DFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4053C4-15E3-4BEC-A102-C7311384DFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2163B34C-7970-4AA4-9AC2-F2C73D14F2D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2163B34C-7970-4AA4-9AC2-F2C73D14F2D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2163B34C-7970-4AA4-9AC2-F2C73D14F2D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2163B34C-7970-4AA4-9AC2-F2C73D14F2D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {986E833A-1C0E-4E5C-8AA3-73C4863C8B94}
+	EndGlobalSection
+EndGlobal
